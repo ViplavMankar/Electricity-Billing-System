@@ -10,3 +10,5 @@ Steps to use the project in your system
 3. Use the package "adminPackage" in any Java IDE to use the admin login pages. You have to use the "AdminBasePage.java" to open the admin project.
 4. Use the package "userPackage" in any Java IDE to use the user login pages. You have to use the "UserBasePage.java" to open the user project.
 5. You can also export the Project to create a jar file and use it as an application.
+
+![First Page](https://github.com/ViplavMankar/Electricity-Billing-System/blob/master/Screenshot%20from%202022-01-03%2019-06-51.png?raw=true)\
